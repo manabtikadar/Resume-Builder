@@ -1,0 +1,40 @@
+### General Resume Format
+{Full Name}
+Contact Information: {Phone Number} | {Email Address} | {LinkedIn Profile} | {GitHub Profile}
+
+Education
+{University Name}, {Expected Graduation Year}
+Bachelor of Technology in {Field of Study} (GPA: {GPA} / 10.00) {Location}
+
+Relevant Coursework: {List relevant courses}
+
+Experience
+{Organization/Club Name} {Start Date} – {End Date}
+Role {Location}
+
+- {Description of responsibilities and achievements}
+
+{Workshop/Internship Name} {Date}
+Attended {Location}
+
+- {Key learnings and experience}
+
+Projects
+{Project Name} | {Technologies Used} {GitHub Repository}
+
+- {Brief description of the project and contributions}
+
+Technical Skills
+Languages: {List programming languages}
+Technologies: {List frameworks, tools, and software}
+Hardware: {List hardware expertise}
+Concepts: {List fundamental concepts and areas of expertise}
+
+Achievements
+- {Achievement or competition participation}
+
+Social Engagements
+Club Member: {Club Name}
+
+{Links to relevant profiles, projects, or portfolios}
+
